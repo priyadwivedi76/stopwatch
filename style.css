@@ -20,4 +20,34 @@
     font-size:60px;
     color: white;
     letter-spacing: 5px;
+    position: relative;
+    top:125px;
+    left:300px;
+    margin: 5px;
 }
+.stop{
+    position: relative;
+    height: 70px;
+    top:100px;
+    left:300px;
+    padding:5px;
+    margin: 5px;
+}
+
+.start{
+    position: relative;
+    height:85px;
+    top:100px;
+    left:300px;
+    margin: 10px;
+}
+.reset{
+    position: relative;
+    height: 70px;
+    top:100px;
+    left:300px;
+    padding:5px;
+    margin: 5px;
+}
+
+
