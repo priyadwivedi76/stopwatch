@@ -12,9 +12,12 @@
 <body>
     <div class="stopwatch">
         <p>00:00:00</p>
-        <img src="images/stop.png" class="stop">
-        <img src="images/start.png" class="start">
-        <img src="images/reset.png" class="reset">
+        <div class="button">
+            <img src="images/stop.png" class="stop" onclick="stopWatch()">
+            <img src="images/start.png" class="start" onclick="startWatch()">
+            <img src="images/reset.png" class="reset" onclick="resetWatch()">
+        </div>
     </div>
+    <script src="app.js"></script>
 </body>
 </html>

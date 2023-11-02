@@ -25,6 +25,9 @@
     left:300px;
     margin: 5px;
 }
+.button img{
+    cursor: pointer;
+}
 .stop{
     position: relative;
     height: 70px;
